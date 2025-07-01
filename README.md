@@ -2,4 +2,4 @@ This repository is part of the workshop and tutorial "Analysing massive open hum
 
 ## Run this repository in RStudio with just your web browser using Binder. Push the button >> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/e-kotov/spanishoddata-playground/HEAD?urlpath=rstudio)
 
-The website with the workshop materials and slides is available at: https://www.ekotov.pro/agit-2025-spanishoddata
+The website with the workshop materials and slides is available at: [https://www.ekotov.pro/agit-2025-spanishoddata](https://www.ekotov.pro/agit-2025-spanishoddata)
