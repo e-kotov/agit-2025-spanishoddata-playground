@@ -177,7 +177,9 @@ Let us get the origin-destination flows for:
 - a day one month after the flood
 
 ```{r}
-dates <- c("2024-10-23", "2024-10-30", "2024-11-06", "2024-11-27")
+# because of the memory limits of the container runnin in Binder, we have to limit the analysis to just 2 days
+dates <- c("2024-10-23", "2024-10-30")
+# dates <- c("2024-10-23", "2024-10-30", "2024-11-06", "2024-11-27") # original code that would work in a computer with > 2 GB RAM
 all(dates %in% available_dates)
 ```
 
